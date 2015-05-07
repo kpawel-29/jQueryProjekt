@@ -1,2 +1,2 @@
 # jQueryProjekt
-jQuery plugin, which validate email $ postal code 
+jQuery plugin, which validate email & postal code 
